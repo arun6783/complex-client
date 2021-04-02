@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: client
-          image: arun6783/complex-client
+          image: arun6783/multi-client
           ports:
             - containerPort: 3000
 
